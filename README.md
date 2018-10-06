@@ -2,7 +2,7 @@
 
 ##A handy compact printable BIP39 mnemonic wordlist containing index values in base 10 and 11-bit binary base 2 format, based off the BIP-39 english word list found at: https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 
-In addition to copying the underlying text, the below images can also be printed direclty (although they are put here for descriptive purposes.
+In addition to copying the underlying text, the below images can also be printed direclty (although they are put here for descriptive purposes).
 
 #Page 1: 
 
