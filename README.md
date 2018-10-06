@@ -1,4 +1,4 @@
-### BIP39-wordlist-printable-en
+## BIP39-wordlist-printable-en
 ##A handy compact printable BIP39 mnemonic wordlist containing index values in base 10 and 11-bit binary base 2 format
 
 In addition to copying the underlying text, the below images can also be printed direclty (although they are put here for descriptive purposes.
